@@ -1,7 +1,8 @@
 {
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
-	"author" : "tuan Anh",
 	"dependencies": {
+		"package-name": "version",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
@@ -11,5 +12,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "Tuan Anh",
+	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp" ],
+"license": "MIT"
 }
